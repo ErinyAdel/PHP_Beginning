@@ -4,20 +4,20 @@
         "name": "Eriny Adel Badr",
         "email": "renyadel7@gmail.com",
         "phone": "01201414212",
-        "image": "uploads\/1743618148_Screenshot (1).png"
+        "image": "uploads\/1743617219_pexels-quang-nguyen-vinh-222549-2131614.jpg"
     },
     {
         "id": 1727664287,
         "name": "Eriny Adel",
         "email": "reny.adel@yahoo.com",
         "phone": "01201414212",
-        "image": "uploads\/1743618180_Screenshot (5).png"
+        "image": "uploads\/istockphoto-814423752-2048x2048_222549-2231614.jpg"
     },
     {
         "id": 1727664288,
         "name": "Eriny Adel Badr Louis",
         "email": "renyadel7@gmail.com",
         "phone": "01201414212",
-        "image": "uploads\/1743619625_Screenshot (4).png"
+        "image": "uploads\/istockphoto-814423752-2048x2048_222549-2232014.jpg"
     }
 ]
