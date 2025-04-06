@@ -1,0 +1,15 @@
+{
+    "name": "eriny/composer",
+    "autoload": {
+        "psr-4": {
+            "Eriny\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eriny Adel",
+            "email": "renyadel7@gmail.com"
+        }
+    ],
+    "require": {}
+}
